@@ -1,0 +1,1 @@
+docker run -e APPLICATION_KEY=c4c26214-0de3-495d-af08-5002509c382b otohits/app:latest
